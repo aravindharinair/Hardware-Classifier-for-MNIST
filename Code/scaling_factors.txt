@@ -1,4 +1,0 @@
-
-Scaling factor conv layer 0: 530
-Scaling factor conv layer 3: 105
-Scaling factor linear layer 0: 32
